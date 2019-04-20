@@ -1,2 +1,2 @@
 n=raw_input("Enter the string:")
-print(n.upper())
+print(n.title())
