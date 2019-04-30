@@ -1,2 +1,2 @@
-a=input("Enter the string:")
-print(a)
+x=input("Enter the string:")
+print(x)
